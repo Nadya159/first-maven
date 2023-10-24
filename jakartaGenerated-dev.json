@@ -1,0 +1,11 @@
+{
+  "version" : "10",
+  "description" : "Jakarta EE 10",
+  "technologies" : [ {
+    "name" : "Maven",
+    "description" : "build automation tool"
+  }, {
+    "name" : "Jackson",
+    "description" : "library JSON"
+  } ]
+}

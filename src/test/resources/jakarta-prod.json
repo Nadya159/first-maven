@@ -1,0 +1,14 @@
+{
+  "version": "1.0",
+  "description": "a test one",
+  "technologies": [
+    {
+      "name": "maven",
+      "description": "Something"
+    },
+    {
+      "name": "jackson",
+      "description": "json mater"
+    }
+  ]
+}
